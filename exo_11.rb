@@ -1,7 +1,7 @@
 puts "Azy donne un nombre !"
-	nomber = gets.chomp
+	number = gets.chomp
 
-	nomber.to_i.times do 
+	number.to_i.times do 
 
 	puts "Salut, ça farte ?"
 end
